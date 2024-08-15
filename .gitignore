@@ -1,4 +1,5 @@
 dataset/*.zip
+dataset/data
 dataset/data_Q1_2024
 dataset/data_Q2_2024
 dataset/data_Q3_2023
