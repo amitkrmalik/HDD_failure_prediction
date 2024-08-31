@@ -5,3 +5,7 @@ dataset/data_Q2_2024
 dataset/data_Q3_2023
 dataset/data_Q4_2023
 dataset/test
+dataset/catboost_info
+dataset/cache
+dataset/mlruns
+dataset/*.log
