@@ -22,4 +22,6 @@ Data set creation
 
 EDA on the dataset
     HDD_4Q_eda.ipynb
-    
+
+Classification model
+    HDD_4Q_binary_classsification.ipynb
